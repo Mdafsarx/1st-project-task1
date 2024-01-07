@@ -83,17 +83,42 @@ padding: 60px 0px 20px 15px;
 
 }
 
+/* footer section */
+#footer{
+background-color: black;
+display: flex;
+}
 
 
 
 
 
+.footer-info{line-height: 50px;
+text-align: left;
+align-items: center;
 
+}
 
+input[type="email"]
+{background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px 10px 8px;
+    color: white; border: 3px solid white;
 
+}
+#subscribe{
+    padding: 20px 25px 20px 25px;
+    border-radius: 7px;
+}
+.footer-info2{
+    padding: 90px 120px 150px 130px;
+line-height: 70px;
+}
 
-
-
-
+.footer-info1{
+    margin-left: auto;
+    margin-top: 20px;
+width: 40%;
+}
 
 
