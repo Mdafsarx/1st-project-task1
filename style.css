@@ -19,18 +19,20 @@ padding: 220px 230px 360px 850px;
 }
 
 .title-h2{
-
+color: whitesmoke;
     font-size: 35px;
 }
 
 .title-p{
-    
+    color: whitesmoke;
     font-size: 17px;
     
 }
 .main-button{ 
     font-size: 20px;
     width: 600;
+    border: none;
+    background-color: whitesmoke;
 }
 
 /* main  */
@@ -50,6 +52,8 @@ align-items: center;
 line-height: 24px;
 text-align: left;
 }
+
+/* skills section */
 .skills-title{
 text-align: center;
 margin-bottom: 55px;
@@ -61,5 +65,35 @@ gap: 90px;
 justify-content: center;
 text-align: center;
 }
+
+
+/* call me section */
+
+#call-me-img{
+background-image: url("watch.png");
+height: 250px;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin: 50px 0px 30px 240px;
+border-radius: 8px;
+color: rgb(255, 255, 255);
+/* background: linear-gradient(90deg, #b0dbff 0%, rgba(0, 95, 172, 0.00) 100%); */
+padding: 60px 0px 20px 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
