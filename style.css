@@ -1,0 +1,55 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@800&display=swap');
+
+/* header  */
+header{background-image: url("./banner/banner3.png");
+height: 700px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+*{margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-title{
+    text-align: right;
+padding: 220px 230px 360px 850px;
+}
+
+.title-h2{
+
+    font-size: 35px;
+}
+
+.title-p{
+    
+    font-size: 17px;
+    
+}
+.main-button{ 
+    font-size: 20px;
+    width: 600;
+}
+
+/* main  */
+
+
+/* img-failor section */
+
+.img-girl{height: 500px; width: 400px;
+padding: 40px 100px 5px 180px;
+}
+#fail-section{display: flex;
+align-items: center;
+}
+
+.list{font-size: 12px;}
+.img-title{padding-left: 70px;
+line-height: 24px;
+text-align: left;
+}
+
+
+
