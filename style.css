@@ -50,6 +50,16 @@ align-items: center;
 line-height: 24px;
 text-align: left;
 }
+.skills-title{
+text-align: center;
+margin-bottom: 55px;
+margin-top: 80px;
 
+}
+.skills{display: flex;
+gap: 90px;
+justify-content: center;
+text-align: center;
+}
 
 
